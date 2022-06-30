@@ -7,8 +7,8 @@ repo belajar git dan github
 * *repo/repository* = folder project kita (folder yang diinisialisasi sebagai repo git)
 * *commit* = rekaman/snapshot dari repo kita
 * *hash* = penanda unik pada sebuah commit
-* *checkout* = berpindah ke sebuah commit
 * *branch* = cabang bebas dari sebuah commit
+* *checkout* = berpindah ke sebuah branch / commit yang lain
 * *merge* = menggabungkan branch
 * *remote* = sumber yang memiliki repo
 * *clone* = mengambil repo dari remote
