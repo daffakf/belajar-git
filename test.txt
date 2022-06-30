@@ -6,4 +6,5 @@ RENCANA BELAJAR
     ^ Laravel
 - Javascript
   * Framework Javascript
+    ^ Vue
     ^ React
