@@ -1,0 +1,6 @@
+RENCANA BELAJAR
+
+- PHP & PHP Framework
+  * Laravel
+- Javascript
+  * Framework Javascript
