@@ -10,7 +10,9 @@ repo belajar git dan github
 * *branch* = cabang bebas dari sebuah commit
 * *checkout* = berpindah ke sebuah branch / commit yang lain
 * *merge* = menggabungkan branch
+  - *merge conflict* = ketika baris yang sama diubah oleh 2 buah branch yang berbeda
 * *remote* = sumber yang memiliki repo
 * *clone* = mengambil repo dari remote
 * *push* = mengirimkan commit ke repo
 * *pull* = mengambil commit dari repo
+  - *pull request* = meminta pemilik repo untuk 'mengambil' perubahan yang dilakukan
