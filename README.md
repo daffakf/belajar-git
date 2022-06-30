@@ -1,11 +1,8 @@
 # belajar-git
 repo belajar git dan github
-* **VCS (Version Control System)**
-  - Sistem yang menyimpan dan mengelola perubahan dari source code
-* **Git**
-  - Software yang bisa melakukan VCS
-* **Github**
-  - Website atau layanan untuk mengelola Git
+* **VCS (Version Control System)** = Sistem yang menyimpan dan mengelola perubahan dari source code
+* **Git** = Salah satu software yang bisa melakukan VCS
+* **Github** = Website atau layanan untuk mengelola Git
 # Istilah Git
 * *repo/repository* = folder project kita (folder yang diinisialisasi sebagai repo git)
 * *commit* = rekaman/snapshot dari repo kita
