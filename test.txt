@@ -1,7 +1,10 @@
 RENCANA BELAJAR
 
-- PHP & PHP Framework
-  * Laravel
+- PHP
+  * Framework PHP
+    ^ Codeigniter
+    ^ Laravel
 - Javascript
   * Framework Javascript
+    ^ Vue
     ^ React
